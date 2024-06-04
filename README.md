@@ -18,6 +18,6 @@ I am a Software Engineer as well as an artist from time to time, recently enroll
 " target="_blank"><img src="http://img.youtube.com/vi/6lv7kM22M4w/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=FKpl4ggVGtM&t=4s
-" target="_blank"><img src="http://img.youtube.com/vi/FKpl4ggVGtM&t=4s/0.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/FKpl4ggVGtM/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
