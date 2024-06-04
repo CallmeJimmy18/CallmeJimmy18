@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Garnet
 ##Software developer/engineer
-![I am a Software developer/engineer]((https://github.com/CallmeJimmy18/CallmeJimmy18/blob/master/feedcode2.jpg))
+![I am a Software developer/engineer](https://github.com/CallmeJimmy18/CallmeJimmy18/blob/master/feedcode2.jpg)
 
 I am a Software Engineer as well as an artist from time to time, recently enrolled in the Alx Software Engineering program. I strive to always learn new things and believe that as humans we NEVER stop learning. I mostly specialise in Python, HTML, CSS and Java Script.
 
