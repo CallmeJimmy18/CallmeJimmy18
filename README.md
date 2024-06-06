@@ -17,7 +17,7 @@ I am a Software Engineer as well as an artist from time to time, recently enroll
 * Currently looking to gain experience in web/software development
 * Enrolled in Alx aws cloud computing program
 
-## Previous Projects
+## Porfolio Projects
 <h3><a href="https://gartium.pythonanywhere.com/login">Gartium</a></h3>
 <img src="https://github.com/CallmeJimmy18/CallmeJimmy18/blob/master/Gartium%20home%20page.jpg" width="240"/>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=6lv7kM22M4w
