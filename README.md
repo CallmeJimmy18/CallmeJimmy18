@@ -12,7 +12,7 @@ I am a Software Engineer as well as an artist from time to time, recently enroll
 * ⚙ JS
 
 ## Previous Projects
-### Gartium
+<h3><a href="https://gartium.pythonanywhere.com/login">Gartium</a></h3>
 <img src="https://github.com/CallmeJimmy18/CallmeJimmy18/blob/master/Gartium%20home%20page.jpg" width="240"/>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=6lv7kM22M4w
 " target="_blank"><img src="http://img.youtube.com/vi/6lv7kM22M4w/0.jpg" 
@@ -21,7 +21,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 " target="_blank"><img src="http://img.youtube.com/vi/FKpl4ggVGtM/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-### Musical Wonder
+<h3><a href="https://callmejimmy.pythonanywhere.com/">Musical Wonder</a></h3>
 <img src="https://github.com/CallmeJimmy18/CallmeJimmy18/blob/master/Screenshot%202024-02-07%20150137.jpg" width="240"/>
 <img src="https://github.com/CallmeJimmy18/CallmeJimmy18/blob/master/Screenshot%202024-02-20%20135316.jpg" width="240"/>
 
